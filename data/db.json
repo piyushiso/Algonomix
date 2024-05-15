@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "id": 0,
+            "name": "PIYUSH LAL SHRESTHA",
+            "code": "MIM 2080",
+            "image": "https://drive.google.com/thumbnail?id=1ob5-648QBLYLdrjqia-4-_qCi96ZKxd1",
+            "bio": "A versatile individual passionate about technology, innovation, ideation, and management, driven by a thirst for learning. Interested in music, art, coding, and gaming, who is dedicated to improvement despite occasional procrastination.",
+            "contact": { "phone": "+977 9804215773", "email": "piyush@hsmonline.edu.np", "address": "Hetauda, Nepal", "linkedin": "in/piyushiso", "github": "/piyushiso" },
+            "education": { "grad": { "title": "Master of Information Management", "college": "HSMSS", "date": "2023 - Ongoing" }, "undergrad": { "title": "Bachelor of Information Management", "college": "HSMSS", "date": "2017 - 2022" } },
+            "skill": "A team player with software expertise, enhancing corporate operations and prioritizing organizational growth & visibility.",
+            "experience": [ { "title": "Associate SDC Officer", "place": "HSMSS (Hetauda, Nepal)", "date": "2022 - Current" }, { "title": "Associate Game Developer", "place": "ChimpVine (Kathmandu, Nepal)", "date": "2022 - 2023" } ],
+            "additions": { "projects": [ { "title": "Perry the Platypus", "appendix": "https://piyushiso.github.io/random/perry/" }, { "title": "More @", "appendix": "https://github.com/piyushiso" } ], "awards": [ { "title": "Project Management Badge - Leaf Nepal (2023)", "appendix": "" } ], "involvement": [ { "title": "Active contributor of college club community (2021 - 2024).", "appendix": "" }, { "title": "VP Public Relations - Hetauda Toastmasters Club (2024).", "appendix": "" } ] }
+          }
+    ]
+}
